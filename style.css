@@ -146,10 +146,3 @@ td{
     border-bottom: 2px solid navy;
     margin-bottom: 10px;
 }
-.row1 {
-    display:flex;
-    justify-content: center;
-    padding: 10px;
-    border-bottom: 2px solid navy;
-    margin-bottom: 10px;
-}
